@@ -1,0 +1,8 @@
+ /*Łukasz Czeczko 3K g1*/
+h3 {  
+       width: 300pt; 
+        height: 4cm;  
+		margin-left     : 20%; 
+        border     : 10px solid rgb(237, 0, 0); 
+        background : rgb(205, 24, 24);
+    }
